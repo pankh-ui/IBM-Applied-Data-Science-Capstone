@@ -20,7 +20,7 @@ classifiers to predict the landing outcome.
 | `6-lab-jupyter-launch-site-location.ipynb` | Interactive Folium maps — launch sites, outcomes and proximities |
 | `7-SpaceX-Machine-Learning-Prediction.ipynb` | Logistic Regression, SVM, Decision Tree and KNN, tuned with `GridSearchCV` |
 | `spacex_dash_app.py` | Plotly Dash dashboard — site dropdown, success pie chart, payload range slider, payload/outcome scatter |
-| `Data_Science_Capstone_Project_Report.pdf` | Final presentation (45 slides) |
+| `Data_Science_Capstone_Project_Report.pdf` | Final presentation (31 slides) |
 | `maps/` | The rendered Folium maps as standalone HTML |
 | `figures/` | Every chart, table and screenshot used in the presentation |
 
